@@ -4,14 +4,14 @@ Repo for collectioning interesting material about DevOps, SRE, MLOps and DevSecO
 
 
 1. MLOps
-========================
+==========
 
 1.1 KubeFlow: KFServing Keras
--------------------------
+-----------------------------
 
 [Webinar "Deploying deep learning models with Kubernetes and Kubeflow"](https://www.youtube.com/watch?v=9yPK6ICmIME&t=1664s&ab_channel=DataPhoenixEvents)
 
-2 DevOps
+2. DevOps
 ========================
 
 2.1 Monitoring
